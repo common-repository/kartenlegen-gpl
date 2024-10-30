@@ -1,0 +1,77 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KartenlegenGPL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-16 06:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.2; wp-5.5"
+
+#: kartenlegengpl.php:73
+msgid "Kartenlegen GPL Plugin"
+msgstr ""
+
+#: kartenlegengpl.php:75
+msgid "Error connecting the orakel."
+msgstr ""
+
+#: kartenlegengpl.php:77
+msgid "Please try again in a few minutes."
+msgstr ""
+
+#. Base ID
+#: includes/kartenlegengpl_widget.php:30
+msgid "Free fortune telling"
+msgstr ""
+
+#: includes/kartenlegengpl_widget.php:31
+msgid "Free card reading"
+msgstr ""
+
+#: includes/kartenlegengpl_widget.php:66
+msgid "Free Cardreading"
+msgstr ""
+
+#: includes/kartenlegengpl_widget.php:70
+msgid "Title:"
+msgstr ""
+
+#: includes/class-kartenlegengpl.php:47
+msgid "Think about your question"
+msgstr ""
+
+#: includes/class-kartenlegengpl.php:49
+msgid "and draw 3 cards"
+msgstr ""
+
+#: includes/class-kartenlegengpl.php:52
+msgid "The Orakelsee is beeing asked"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kartenlegen-GPL"
+msgstr ""
+
+#. Description of the plugin
+msgid "Free Cardreading for every wordpress site"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://orakelsee.com/wp/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Orakelsee"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://orakelsee.com/"
+msgstr ""

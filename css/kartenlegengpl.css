@@ -1,0 +1,36 @@
+.kartenlegengpl               { width:100%; text-align:center }
+.kartenlegengpl #orakelhelper { text-align:center; margin-top: 10px }
+.kartenlegengpl .backimage:first-child { float:left; margin-left:0;}
+.kartenlegengpl .backimage    { display:block; z-index: 2; cursor:pointer; width: 17%; float:left; margin-left:-14.36%;
+                                background:white; 
+                                -moz-border-radius:5px; -webkit-border-radius:5px; -khtml-border-radius:5px; border-radius:5px;
+                                -webkit-box-shadow: inset 0px 0px 13px 1px rgba(194,194,194,1),inset 0px 0px 0px 1px rgba(74,74,74,1);
+                                -moz-box-shadow: inset 0px 0px 13px 1px rgba(194,194,194,1),inset 0px 0px 0px 1px rgba(74,74,74,1);
+                                box-shadow: inset 0px 0px 13px 1px rgba(194,194,194,1),inset 0px 0px 0px 1px rgba(74,74,74,1);
+                              }
+.kartenlegengpl .selectedcard:first-child { float:left; margin-left:0;}
+.kartenlegengpl .selectedcard { display:block; z-index: -1; width: 17%; float:left; margin-left:-14.34%;
+                                background:transparent; transition: all 1s; height:1px; cursor:none;
+                                -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none;
+                              }                        
+.kartenlegengpl .backimage:before { content: ''; display:block; padding-top: 150%; }
+.kartenlegengpl .backimage:hover  {
+                                background: rgb(192,198,204);
+                                background: -moz-linear-gradient(-45deg, rgba(192,198,204,1) 0%, rgba(206,212,216,1) 50%, rgba(201,207,213,1) 51%, rgba(225,228,231,1) 100%);
+                                background: -webkit-linear-gradient(-45deg, rgba(192,198,204,1) 0%,rgba(206,212,216,1) 50%,rgba(201,207,213,1) 51%,rgba(225,228,231,1) 100%);
+                                background: linear-gradient(135deg, rgba(192,198,204,1) 0%,rgba(206,212,216,1) 50%,rgba(201,207,213,1) 51%,rgba(225,228,231,1) 100%);
+                                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c0c6cc', endColorstr='#e1e4e7',GradientType=1 );
+                              }
+.kartenlegengpl #selectedcards { text-align:center; padding-top: 5px }
+.kartenlegengpl .showselectedcard { width: 20%; margin-left:-5%; }
+.kartenlegengpl .showselectedcard:first-child { margin-left:0; }
+.kartenlegengpl #selectedcards img.showselectedcard { 
+                                transform: translate(0,3px); -webkit-transform: translate(0,3px); -o-transform: translate(0,3px); -moz-transform: translate(0,3px);
+                                moz-border-radius:3px; -webkit-border-radius:3px; -khtml-border-radius:3px; border-radius:3px;
+                                -webkit-box-shadow:  0px 1px 2px 1px rgba(194,194,194,1); -moz-box-shadow:  0px 1px 2px 1px rgba(194,194,194,1); box-shadow:  0px 1px 2px 1px rgba(194,194,194,1);
+                              }
+.kartenlegengpl #selectedcards img.showselectedcard:nth-child(2) {
+                                transform: translate(0,0); -webkit-transform: translate(0,0); -o-transform: translate(0,0); -moz-transform: translate(0,0);
+                              }
+.kartenlegengpl #orakelspruch { text-align:left; padding-top: 20px; }
+.kartenlegengpl #orakelwait   { padding-top: 20px; display:none; font-size:x-small; text-align:left; color:blue; }

@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Kartenlegen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-18 17:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: kartenlegen.php:62
+msgid "Kartenlegen Plugin"
+msgstr ""
+
+#: kartenlegen.php:64
+msgid "Error connecting the orakel."
+msgstr ""
+
+#: kartenlegen.php:66
+msgid "Please try again in a few minutes."
+msgstr ""
+
+#: includes/kartenlegen_widget.php:27
+msgid "Free card reading"
+msgstr ""
+
+#: includes/kartenlegen_widget.php:65
+msgid "Gratis Kartenlegen"
+msgstr ""
+
+#: includes/class-kartenlegen.php:45
+msgid "Think about your question"
+msgstr ""
+
+#: includes/class-kartenlegen.php:47
+msgid "and draw 3 cards"
+msgstr ""
+
+#: includes/class-kartenlegen.php:50
+msgid "The Orakelsee is beeing asked"
+msgstr ""
+
+#. Name of the plugin
+msgid "Kartenlegen"
+msgstr ""
+
+#. Description of the plugin
+msgid "Free Cardreading for every wordpress site"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://orakelsee.com/wp/kartenlegen-plugin/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Orakelsee"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://orakelsee.com/"
+msgstr ""
